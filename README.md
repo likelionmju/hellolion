@@ -8,3 +8,9 @@ MJU(Seoul) x Likelion Django HelloLion!
 ---
 
 명지대학교(서울) 멋쟁이사자처럼 Django 교안 프로젝트 첫 번째 교안입니다.
+
+### 2. 실습
+
+---
+
+Django의 MTV패턴과 가상환경에 대한 설명 후, 실습을 진행합니다.
